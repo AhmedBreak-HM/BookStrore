@@ -1,0 +1,10 @@
+.vs
+.vscode
+bin
+obj
+*.db
+appsettings.Development
+BookStore.csproj.user
+BookStore.sln
+BookStore
+WebAPi
